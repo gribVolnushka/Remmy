@@ -1,0 +1,21 @@
+.treatments {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+ .treatments__container {
+     display: flex;
+     align-items: center;
+     gap: 200px;
+ }
+
+ .treatments__wrapper-content {
+     width: 42%;
+ }
+
+ .treatments__title {
+     margin-bottom: 50px;
+ }
+
+ .treatments__text {
+     margin-bottom: 30px;
+ }

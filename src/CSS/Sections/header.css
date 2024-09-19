@@ -1,0 +1,41 @@
+.header {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.header__container {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.header__nav {
+    flex-grow: 1;
+}
+
+.header__list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.header__link {
+    font-size: 1.5rem;
+    line-height: calc(18 / 15);
+    color: var(--primary-blue);
+    opacity: 0.9;
+}
+
+.header__button {
+    text-align: center;
+    min-width: 152px;
+    font-size: 1.6rem;
+    line-height: calc(20 / 16);
+    color: var(--primary-white);
+    border-radius: 10px;
+    background-color: var(--secondary-blue);
+    padding: 10px 20px 9px 20px;
+}
+
+

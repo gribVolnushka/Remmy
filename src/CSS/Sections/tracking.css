@@ -1,0 +1,22 @@
+.tracking {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.tracking-container {
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+
+.tracking__wrapper-content {
+    width: 42%;
+}
+
+.tracking__title {
+    margin-bottom: 50px;
+}
+
+.tracking__text {
+    margin-bottom: 30px;
+}

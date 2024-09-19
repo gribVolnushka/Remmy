@@ -1,0 +1,40 @@
+.support {
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.support__container {
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+
+.support__wrapper-content {
+    width: 42%;
+}
+
+.support__title {
+    margin-bottom: 40px;
+}
+
+.support__text {
+    margin-bottom: 50px;
+}
+
+.support__list {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.support__item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.support__subtitle {
+    font-size: 2rem;
+    line-height: calc(32 / 20);
+    color: var(--primary-blue);
+}

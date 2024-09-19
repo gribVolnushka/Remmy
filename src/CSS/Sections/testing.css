@@ -1,0 +1,24 @@
+.testing {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.testing__container {
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+
+
+.testing__wrapper-content {
+    width: 41%;
+}
+
+.testing__title {
+    margin-bottom: 35px;
+}
+
+.testing__text {
+    margin-bottom: 35px;
+}
+
